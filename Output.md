@@ -1,1 +1,11 @@
+![course card](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/c435c450-4eae-4872-a327-cc083861b45a)
+![hover output screenshot](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/2dbc1c5d-7c79-42b5-a681-8fa866664002)
+![navigation bar](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/981594b8-ed98-4c14-a4fb-0858450092ae)
+![reuirment output sreenshot](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/0a328814-800e-407d-bee4-540a0f8f372e)
+![Screenshot 2023-11-24 155711](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/532982a7-c7fa-40d8-a995-5e41761bb19e)
+![Screenshot 2023-11-24 160214](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/5be8587f-e9d1-4629-bd2f-9f0dfebc02ad)
+![web page](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/b01fb54f-ec2a-414a-a78e-892da42a1975)
+![werb page output](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/182b1278-1a5d-45aa-bf6d-682d25978b2e)
+![border diffrent](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/9679d5f0-ef67-4cb9-8a38-4d9d9d770ec3)
+![circular image (1)](https://github.com/PratikPachaghare/Assinggment6/assets/147168944/e2889ba0-5728-4c67-80f0-5d43398218b6)
 
